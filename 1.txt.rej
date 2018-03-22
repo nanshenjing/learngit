@@ -1,7 +1,0 @@
-diff a/1.txt b/1.txt	(rejected hunks)
-@@ -3,2 +3,3 @@
- Shift + F8   跳出方法
- Alt + F9     跳到下一个断点
-\ No newline at end of file
-+功能完成！第一阶段上线测试。
-\ No newline at end of file

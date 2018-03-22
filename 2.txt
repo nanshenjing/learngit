@@ -2,4 +2,6 @@ hello word!
 system.out.println("git");
 第二阶段上线测试。
 
-bug修复。
+3.1 启动。bug修复。
+模拟储藏环境
+3.1 模块完成。
